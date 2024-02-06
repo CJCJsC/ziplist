@@ -1,3 +1,5 @@
+const _ = require('underscore');
+
 const list1 = ['a', 'b', 'c'];
 const list2 = [1, 2, 3];
 
